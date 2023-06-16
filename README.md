@@ -1,6 +1,6 @@
 # Todo App
 
-- [Todo App] - ;
+- [Todo App] - https://nedobezhkinoleksandr.github.io/Todo_App/;
 
 - Project related to Todo task list, where you can plan your tasks, and if you complete them, to mark as completed;
 
