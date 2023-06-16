@@ -1,5 +1,7 @@
+/* eslint-disable jsx-a11y/label-has-associated-control */
+/* eslint-disable react/jsx-no-comment-textnodes */
 import classNames from 'classnames';
-import { useState, useContext } from 'react';
+import React, { useState, useContext } from 'react';
 import { PatchedTodo, Todo } from '../../types/Todo';
 import { Errors } from '../../types/Errors';
 import { updateTodoTitle } from '../../api/todos';

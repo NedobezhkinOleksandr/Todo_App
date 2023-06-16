@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-shadow
 export enum Errors {
   NONE = '',
   UPLOAD = 'Unable to upload todos',

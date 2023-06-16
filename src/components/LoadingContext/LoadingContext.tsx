@@ -1,6 +1,7 @@
-import { ReactNode, createContext, useState } from 'react';
+import React, { ReactNode, createContext, useState } from 'react';
 
 type LoadingProviderProps = {
+  // eslint-disable-next-line react/require-default-props
   children?: ReactNode;
 };
 
